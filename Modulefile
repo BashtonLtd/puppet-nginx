@@ -1,4 +1,4 @@
-name    'jfryman-nginx'
+name    'bashtonltd-nginx'
 version '0.0.7'
 source 'http://github.com/jfryman/puppet-nginx'
 author 'James Fryman'
